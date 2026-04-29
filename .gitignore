@@ -1,0 +1,23 @@
+# Data — never commit raw or processed claims data
+data/raw/
+data/processed/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+.eggs/
+.ruff_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Quarto
+briefing/figures/
+briefing/*.pdf
+_quarto/
+/.quarto/
+
+# OS
+.DS_Store
