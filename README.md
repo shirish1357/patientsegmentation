@@ -30,6 +30,8 @@ Patient segmentation is a foundational tool in population health. Rather than tr
 
 The smallest segment (Advanced-Disease, 7%) carries the highest per-member cost and the lowest stability score, which makes clinical sense: end-of-life trajectories are genuinely heterogeneous and hard to replicate across subsamples. The two largest segments together represent 53% of the cohort at well below average cost, which confirms that most chronic-disease beneficiaries are not high-need.
 
+![Dashboard screenshot showing segment cost bar chart, radar profile, and drill-down detail card](assets/dashboard.png)
+
 See `briefing/exec_briefing.qmd` for the full executive briefing (render with `quarto render briefing/exec_briefing.qmd`).
 
 ---
